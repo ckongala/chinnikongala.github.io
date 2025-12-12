@@ -445,9 +445,9 @@ This portfolio is for personal use. You're welcome to use it as inspiration for 
 ## 🌐 Connect With Me
 
 - 📧 Email: chinnikrishna2023@gmail.com
-- 💼 LinkedIn: [Connect on LinkedIn](https://linkedin.com/in/chinnikrishna)
-- 💻 GitHub: [@chinnikrishna](https://github.com/chinnikrishna)
-- 🌍 Portfolio: [https://chinnikrishna.github.io](https://chinnikrishna.github.io)
+- 💼 LinkedIn: [Connect on LinkedIn](https://linkedin.com/in/chinni-krishna-kongala)
+- 💻 GitHub: [@chinnikrishna](https://github.com/ckongala)
+- 🌍 Portfolio: [https://chinnikrishna.github.io](https://chinnikongala.github.io)
 
 ---
 
