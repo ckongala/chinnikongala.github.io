@@ -1,0 +1,36 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    scroll-padding-top: 80px;
+  }
+
+  body {
+    min-height: 100vh;
+    cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="%233b82f6" stroke-width="2"><circle cx="12" cy="12" r="4"/></svg>') 12 12, auto;
+    @apply bg-white dark:bg-gray-900 text-neutral-800 dark:text-neutral-100 transition-colors duration-300;
+  }
+
+  * {
+    cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="%233b82f6" stroke-width="2"><circle cx="12" cy="12" r="4"/></svg>') 12 12, auto;
+  }
+
+  a, button {
+    cursor: url('data:image/svg+xml;utf8,<svg xmlns="http://www.w3.org/2000/svg" width="28" height="28" viewBox="0 0 24 24" fill="none" stroke="%233b82f6" stroke-width="2"><circle cx="12" cy="12" r="6"/></svg>') 14 14, pointer;
+  }
+}
+
+@layer components {
+  .card-modern {
+    @apply bg-gradient-to-br from-white/95 to-primary-50/95 dark:from-gray-800/95 dark:to-gray-700/95 backdrop-blur-md rounded-2xl shadow-xl border border-primary-200/50 dark:border-gray-600/50 hover:border-accent-300/50 dark:hover:border-accent-500/50 hover:shadow-accent-200/30 dark:hover:shadow-accent-500/20 transition-all duration-500 hover:scale-[1.02] hover:-translate-y-1;
+  }
+
+  .section-title {
+    @apply text-3xl md:text-4xl font-bold bg-gradient-to-r from-primary-600 via-accent-600 to-primary-700 dark:from-primary-400 dark:via-accent-400 dark:to-primary-500 bg-clip-text text-transparent mb-6;
+  }
+}
+
+
