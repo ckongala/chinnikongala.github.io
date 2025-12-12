@@ -2,7 +2,7 @@
 
 A modern, professional portfolio website showcasing 4+ years of expertise in software development, data engineering, AI/ML, and Cloud-Native DevSecOps. Built with Next.js 14, featuring a stunning dark/light mode, responsive design, and deployed automatically via GitHub Actions.
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://chinnikrishna.github.io)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen)](https://ckongala.github.io)
 [![Next.js](https://img.shields.io/badge/Next.js-14-black)](https://nextjs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5-blue)](https://www.typescriptlang.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind-3.4-38bdf8)](https://tailwindcss.com/)
@@ -90,7 +90,7 @@ Git helps you download and manage the project files.
 ```bash
 # Clone the repository
 git clone <url>
-cd chinnikongala.github.io
+cd ckongala.github.io
 
 # Install dependencies
 npm install
@@ -206,7 +206,7 @@ You can publish your website using services like:
 ## 🏗️ Project Structure
 
 ```
-chinnikrishna.github.io/
+ckongala.github.io/
 ├── .github/
 │   └── workflows/
 │       └── nextjs.yml          # GitHub Actions CI/CD pipeline
@@ -265,7 +265,7 @@ chinnikrishna.github.io/
 
 ### Still Having Issues?
 - Check the Terminal/Command Prompt for error messages
-- Make sure you're in the correct folder (`chinnikrishna.github.io`)
+- Make sure you're in the correct folder (`ckongala.github.io`)
 - Ensure all files were downloaded correctly
 - Try restarting your computer
 
@@ -361,7 +361,7 @@ This portfolio is configured for **automatic deployment** to GitHub Pages:
 2. **GitHub Actions** automatically:
    - Builds the Next.js project
    - Exports static files to `/out`
-   - Deploys to `https://chinnikrishna.github.io`
+   - Deploys to `https://ckongala.github.io`
 
 3. **Enable GitHub Pages** (one-time setup):
    - Go to repository Settings → Pages
@@ -447,7 +447,7 @@ This portfolio is for personal use. You're welcome to use it as inspiration for 
 - 📧 Email: chinnikrishna2023@gmail.com
 - 💼 LinkedIn: [Connect on LinkedIn](https://linkedin.com/in/chinni-krishna-kongala)
 - 💻 GitHub: [@chinnikrishna](https://github.com/ckongala)
-- 🌍 Portfolio: [https://chinnikrishna.github.io](https://chinnikongala.github.io)
+- 🌍 Portfolio: [https://chinnikrishna.github.io](https://ckongala.github.io)
 
 ---
 
@@ -461,6 +461,6 @@ Built with passion using:
 
 ---
 
-**Built with ❤️, a ton of patience, AI prompting, and the eternal hope that it compiles! 🚀**
+**Built with ❤️, a ton of patience, AI prompting, and the eternal hope that it compiles!**
 
-*If you've scrolled all the way down here, I must've caught your attention! Let's connect and build something the tech world will be proud of. 💡✨*
+*If you've scrolled all the way down here, I must've caught your attention! Let's connect and build something the tech world will be proud of 😊.
